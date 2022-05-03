@@ -4,8 +4,8 @@ jupyterlabとMySQLをセットにしたdocker-composeディレクトリです
 (dbとworkは自動で生成されます)
 ```
 jupyterlab_mysql
-├── db
-│── work 
+├── db => (MySQLのデータ保存場所)
+│── work => （jupyterlabのコードを保存する場所）
 │           
 └── docker-compose.yml
 ```
