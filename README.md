@@ -28,6 +28,9 @@ docker-compose up -d
 
 localhost:8888をブラウザで開くとjupyterlabが開きます。（pyhtonとRとJulia言語が使えます）
 
+- localhost:8888で起動後、workディレクトリを選択し、notebook => python3 (ipykernel)をクリック
+- ここにpythonコードを書いた後、shift＋Enterでセルを実行できます。
+
 localhost:8080をブラウザで開くとmySQLとphpMyAdminが連携された状態で開きます。
 
 コンテナ終了コマンドは
