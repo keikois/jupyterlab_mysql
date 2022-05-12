@@ -13,6 +13,11 @@ jupyterlab_mysql
 ※事前にDocker desktopのインストールが必要です。
 ## ディレクトリのクローンのやり方
 ターミナルで下記を実行してください。
+- SSH設定無しでクローンしたい方はこちら
+```
+https://github.com/keikois/jupyterlab_mysql.git
+```
+- SSHキーをGitHubで設定している方はこちら
 ```
 git clone git@github.com:keikois/jupyterlab_mysql.git
 ```
