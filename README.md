@@ -15,7 +15,7 @@ jupyterlab_mysql
 ターミナルで下記を実行してください。
 - SSH設定無しでクローンしたい方はこちら
 ```
-https://github.com/keikois/jupyterlab_mysql.git
+git clone https://github.com/keikois/jupyterlab_mysql.git
 ```
 - SSHキーをGitHubで設定している方はこちら
 ```
